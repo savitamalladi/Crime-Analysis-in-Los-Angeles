@@ -1,1 +1,5 @@
-here is my tableau dashboard
+# Link to my Tableau Dashboard
+[https://public.tableau.com/app/profile/savita.sruti.malladi/viz/CrimeAnalysisinLA-midterm_SSM/Story2?publish=yes]
+
+# Link to where I got my dataset
+[https://data.lacity.org/Public-Safety/Crime-Data-from-2020-to-Present/2nrs-mtv8/about_data]
