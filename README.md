@@ -9,6 +9,6 @@ FUTURE WORK: Future work may involve integrating more recent crime data to obser
 UNDERSTANDING THE DASHBOARD: This storyboard consists of three main dashboards, which you can navigate by clicking on their names. The first dashboard, Crime Overview, provides a general overview of crimes in Los Angeles. You can filter by year and further by area name to gain specific insights. The second dashboard, Crime Demographics, allows filtering by year and gender, providing insights into crime patterns based on demographics. Lastly, the Reporting Analysis dashboard offers insights into the reporting of incidents by demographics and area, with additional filtering by year to analyze trends over time.
 
 Link to Tableau Dashboard:
-[https://public.tableau.com/app/profile/savita.sruti.malladi/viz/CrimeAnalysisinLA-midterm_SSM/Story2?publish=yes]
+[https://public.tableau.com/views/CrimeAnalysisinLA-midterm_SSM/Story3?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
 
 note: please be a little patient navigating through it. Being a large dataset it might take time to load. sorry in advance :p
