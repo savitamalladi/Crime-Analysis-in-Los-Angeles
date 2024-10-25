@@ -10,3 +10,5 @@ UNDERSTANDING THE DASHBOARD: This storyboard consists of three main dashboards, 
 
 Link to Tableau Dashboard:
 [https://public.tableau.com/app/profile/savita.sruti.malladi/viz/CrimeAnalysisinLA-midterm_SSM/Story2?publish=yes]
+
+note: please be a little patient navigating through it. Being a large dataset it might take time to load. sorry in advance :p
